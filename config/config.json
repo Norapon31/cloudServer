@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ubuntu",
+    "password": "0863731505",
+    "database": "poompuang",
+    "host": "116.204.182.208",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "ubuntu",
+    "password": "0863731505",
+    "database": "poompuang",
+    "host": "116.204.182.208",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "ubuntu",
+    "password": "0863731505",
+    "database": "poompuang",
+    "host": "116.204.182.208",
+    "dialect": "postgres"
+  }
+}
